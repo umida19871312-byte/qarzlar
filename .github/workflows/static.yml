@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Qarz ro'yxati (99 ta)</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f7f7fb; color:#222; margin:20px; }
+    h1 { font-size: 22px; margin-bottom: 12px; }
+    table { width: 100%; border-collapse: collapse; background: #fff; }
+    thead th { background: #2f3b52; color: #fff; padding: 10px; text-align: left; }
+    tbody td { border-bottom: 1px solid #e6e6e6; padding: 8px; }
+    tbody tr:nth-child(even) { background: #fafafa; }
+    .highlight { background: #fff8e1 !important; }
+    .sum { text-align: right; }
+  </style>
+</head>
+<body>
+  <h1>Qarz ro'yxati (99 ta yozuv)</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Ism</th>
+        <th>Familya</th>
+        <th>Telegram ID</th>
+        <th class="sum">Qarz (so'm)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- 1 -->
+      <tr><td>Javlon</td><td>Karimov</td><td>719384621</td><td class="sum">230,000</td></tr>
+      <!-- 2 -->
+      <tr><td>Asal</td><td>Hamidova</td><td>504918372</td><td class="sum">120,000</td></tr>
+      <!-- 3 -->
+      <tr><td>Bekzod</td><td>Nazarov</td><td>913472085</td><td class="sum">980,000</td></tr>
+      <!-- 4 -->
+      <tr><td>Mohinur</td><td>Yo'ldosheva</td><td>638290147</td><td class="sum">310,000</td></tr>
+      <!-- 5 -->
+      <tr><td>Aziz</td><td>Fayzullayev</td><td>802173954</td><td class="sum">75,000</td></tr>
+      <!-- 6 -->
+      <tr><td>Gulrux</td><td>To'laganova</td><td>457821093</td><td class="sum">420,000</td></tr>
+      <!-- 7 -->
+      <tr><td>Shahzod</td><td>Qodirov</td><td>910238746</td><td class="sum">1,250,000</td></tr>
+      <!-- 8 -->
+      <tr><td>Laylo</td><td>Ismoilova</td><td>378201954</td><td class="sum">190,000</td></tr>
+      <!-- 9 -->
+      <tr><td>Jasmina</td><td>Rasulova</td><td>821457309</td><td class="sum">260,000</td></tr>
+      <!-- 10 -->
+      <tr><td>Shuhrat</td><td>Tursunov</td><td>569104832</td><td class="sum">87,000</td></tr>
+      <!-- 11 -->
+      <tr><td>Malika</td><td>Ergasheva</td><td>734129586</td><td class="sum">330,000</td></tr>
+      <!-- 12 -->
+      <tr><td>Abdulaziz</td><td>Turayev</td><td>945610238</td><td class="sum">920,000</td></tr>
+      <!-- 13 -->
+      <tr><td>Sardor</td><td>Bekmurodov</td><td>268945701</td><td class="sum">145,000</td></tr>
+      <!-- 14 -->
+      <tr><td>Madina</td><td>Qurbonova</td><td>674509132</td><td class="sum">510,000</td></tr>
+      <!-- 15 -->
+      <tr><td>Bobur</td><td>Zokirov</td><td>839215470</td><td class="sum">205,000</td></tr>
+      <!-- 16 -->
+      <tr><td>Nilufar</td><td>Aliyeva</td><td>590213478</td><td class="sum">355,000</td></tr>
+      <!-- 17 -->
+      <tr><td>Akmal</td><td>Sanayev</td><td>712398540</td><td class="sum">1,020,000</td></tr>
+      <!-- 18 -->
+      <tr><td>Ziyoda</td><td>Habibullayeva</td><td>381945720</td><td class="sum">130,000</td></tr>
+      <!-- 19 -->
+      <tr><td>Shaxnoza</td><td>Mirzayeva</td><td>804219753</td><td class="sum">270,000</td></tr>
+      <!-- 20 -->
+      <tr><td>Elbek</td><td>Qayumov</td><td>946105783</td><td class="sum">740,000</td></tr>
+      <!-- 21 -->
+      <tr><td>Jahongir</td><td>Soliyev</td><td>528709134</td><td class="sum">95,000</td></tr>
+      <!-- 22 -->
+      <tr><td>Shahnoza</td><td>Shodmonova</td><td>871409235</td><td class="sum">300,000</td></tr>
+      <!-- 23 -->
+      <tr><td>Otabek</td><td>Hasanov</td><td>612345789</td><td class="sum">450,000</td></tr>
+      <!-- 24 -->
+      <tr><td>Rayhona</td><td>Burhonova</td><td>973104526</td><td class="sum">220,000</td></tr>
+      <!-- 25 -->
+      <tr><td>Erkin</td><td>Niyozov</td><td>357801946</td><td class="sum">560,000</td></tr>
+      <!-- 26 -->
+      <tr><td>Komila</td><td>Serikova</td><td>740196823</td><td class="sum">310,000</td></tr>
+      <!-- 27 -->
+      <tr><td>Aziza</td><td>Qo'chqorova</td><td>689401235</td><td class="sum">180,000</td></tr>
+      <!-- 28 -->
+      <tr><td>Mushtariy</td><td>Ernazarova</td><td>915478203</td><td class="sum">990,000</td></tr>
+      <!-- 29 -->
+      <tr><td>Temur</td><td>Abdullayev</td><td>452719803</td><td class="sum">140,000</td></tr>
+      <!-- 30 -->
+      <tr><td>Sevinch</td><td>Qo'shqinova</td><td>831940562</td><td class="sum">275,000</td></tr>
+      <!-- 31 -->
+      <tr><td>Baxtiyor</td><td>Po'latov</td><td>974120538</td><td class="sum">880,000</td></tr>
+      <!-- 32 -->
+      <tr><td>Munisa</td><td>Ismatova</td><td>540987613</td><td class="sum">115,000</td></tr>
+      <!-- 33 -->
+      <tr><td>Rustam</td><td>Rajabov</td><td>687210945</td><td class="sum">360,000</td></tr>
+      <!-- 34 -->
+      <tr><td>Farangiz</td><td>Yusupova</td><td>719845302</td><td class="sum">200,000</td></tr>
+      <!-- 35 -->
+      <tr><td>Shoxrux</td><td>Qo'chqorov</td><td>893571024</td><td class="sum">760,000</td></tr>
+      <!-- 36 -->
+      <tr><td>Parvina</td><td>Xidiryeva</td><td>305974816</td><td class="sum">150,000</td></tr>
+      <!-- 37 -->
+      <tr><td>Abbos</td><td>Sultonov</td><td>910547832</td><td class="sum">495,000</td></tr>
+      <!-- 38 -->
+      <tr><td>Yasmina</td><td>Qurbonqulova</td><td>628401359</td><td class="sum">315,000</td></tr>
+      <!-- 39 -->
+      <tr><td>Shoira</td><td>Davronova</td><td>784509621</td><td class="sum">255,000</td></tr>
+      <!-- 40 -->
+      <tr><td>Mirjalol</td><td>Shermatov</td><td>965210347</td><td class="sum">1,100,000</td></tr>
+      <!-- 41 -->
+      <tr><td>Ruxsora</td><td>Umarova</td><td>519743680</td><td class="sum">170,000</td></tr>
+      <!-- 42 -->
+      <tr><td>Zafar</td><td>Qobilov</td><td>874129530</td><td class="sum">605,000</td></tr>
+      <!-- 43 -->
+      <tr><td>Madina</td><td>Tojiboyeva</td><td>432871590</td><td class="sum">145,000</td></tr>
+      <!-- 44 -->
+      <tr><td>Sanjar</td><td>Shodiyev</td><td>702145983</td><td class="sum">285,000</td></tr>
+      <!-- 45 -->
+      <tr><td>Gulbahor</td><td>Shamsiyeva</td><td>895130472</td><td class="sum">320,000</td></tr>
+      <!-- 46 -->
+      <tr><td>Humoyun</td><td>Xo'jayev</td><td>613407295</td><td class="sum">440,000</td></tr>
+      <!-- 47 -->
+      <tr><td>Malohat</td><td>Qo'shqarova</td><td>748320561</td><td class="sum">210,000</td></tr>
+      <!-- 48 -->
+      <tr><td>Shohista</td><td>Botirova</td><td>982741305</td><td class="sum">925,000</td></tr>
+      <!-- 49 -->
+      <tr><td>Abdulloh</td><td>Sharipov</td><td>547912803</td><td class="sum">135,000</td></tr>
+      <!-- 50 -->
+      <tr><td>Matluba</td><td>Is’hoqova</td><td>839471205</td><td class="sum">260,000</td></tr>
+      <!-- 51 -->
+      <tr><td>Ravshan</td><td>Shukurov</td><td>971284503</td><td class="sum">710,000</td></tr>
+      <!-- 52 -->
+      <tr><td>Go'zal</td><td>Nuraliyeva</td><td>420867913</td><td class="sum">180,000</td></tr>
+      <!-- 53 -->
+      <tr><td>Islom</td><td>G'ofurov</td><td>768230145</td><td class="sum">390,000</td></tr>
+      <!-- 54 -->
+      <tr><td>Feruza</td><td>To'rayeva</td><td>905714832</td><td class="sum">520,000</td></tr>
+      <!-- 55 -->
+      <tr><td>Behruz</td><td>Maxmudov</td><td>631457802</td><td class="sum">155,000</td></tr>
+      <!-- 56 -->
+      <tr><td>Nasiba</td><td>Yuldasheva</td><td>784120639</td><td class="sum">295,000</td></tr>
+      <!-- 57 -->
+      <tr><td>Valijon</td><td>Qurbonov</td><td>952781046</td><td class="sum">845,000</td></tr>
+      <!-- 58 -->
+      <tr><td>Adiba</td><td>Sharipova</td><td>538719604</td><td class="sum">165,000</td></tr>
+      <!-- 59 -->
+      <tr><td>Samandar</td><td>Boltaboyev</td><td>879641205</td><td class="sum">430,000</td></tr>
+      <!-- 60 -->
+      <tr><td>Aziza</td><td>Qayumova</td><td>310586794</td><td class="sum">240,000</td></tr>
+      <!-- 61 -->
+      <tr><td>Shodiyona</td><td>Rahmonova</td><td>694201835</td><td class="sum">275,000</td></tr>
+      <!-- 62 -->
+      <tr><td>Ulug'bek</td><td>Shaxruxov</td><td>845920317</td><td class="sum">965,000</td></tr>
+      <!-- 63 -->
+      <tr><td>Maftuna</td><td>Erkinova</td><td>527890613</td><td class="sum">125,000</td></tr>
+      <!-- 64 -->
+      <tr><td>Jannat</td><td>Komilova</td><td>768451903</td><td class="sum">345,000</td></tr>
+      <!-- 65 -->
+      <tr><td>Olim</td><td>Norboyev</td><td>936520841</td><td class="sum">1,015,000</td></tr>
+      <!-- 66 -->
+      <tr><td>Shahriyor</td><td>Jumayev</td><td>459710682</td><td class="sum">185,000</td></tr>
+      <!-- 67 -->
+      <tr><td>Dilnoza</td><td>Qo'shayeva</td><td>812409573</td><td class="sum">305,000</td></tr>
+      <!-- 68 -->
+      <tr><td>Akrom</td><td>Usmonov</td><td>690174853</td><td class="sum">540,000</td></tr>
+      <!-- 69 -->
+      <tr><td>Shahzoda</td><td>Karimova</td><td>975813046</td><td class="sum">215,000</td></tr>
+      <!-- 70 -->
+      <tr><td>Mirzohid</td><td>Xudoyorov</td><td>531478906</td><td class="sum">770,000</td></tr>
+      <!-- 71 -->
+      <tr><td>Gulchehra</td><td>Nuriddinova</td><td>784953610</td><td class="sum">290,000</td></tr>
+      <!-- 72 -->
+      <tr><td>Botir</td><td>To'xtayev</td><td>908741263</td><td class="sum">600,000</td></tr>
+      <!-- 73 -->
+      <tr><td>Sevara</td><td>Aripova</td><td>619405873</td><td class="sum">245,000</td></tr>
+      <!-- 74 -->
+      <tr><td>Abdulhamid</td><td>Haydarov</td><td>843210957</td><td class="sum">815,000</td></tr>
+      <!-- 75 -->
+      <tr><td>Shahlo</td><td>Qo'ldosheva</td><td>370549816</td><td class="sum">165,000</td></tr>
+      <!-- 76 -->
+      <tr><td>Javohir</td><td>Iskandarov</td><td>972458103</td><td class="sum">935,000</td></tr>
+      <!-- 77 -->
+      <tr><td>Samar</td><td>Maxmudov</td><td>548102739</td><td class="sum">175,000</td></tr>
+      <!-- 78 -->
+      <tr><td>Zilola</td><td>Usmonova</td><td>816409235</td><td class="sum">310,000</td></tr>
+      <!-- 79 -->
+      <tr><td>Iskandar</td><td>G'aniyev</td><td>695874120</td><td class="sum">565,000</td></tr>
+      <!-- 80 -->
+      <tr><td>Mahliyo</td><td>Shirinova</td><td>940618273</td><td class="sum">225,000</td></tr>
+      <!-- 81 -->
+      <tr><td>Ibrohim</td><td>Aliyev</td><td>583971064</td><td class="sum">480,000</td></tr>
+      <!-- 82 -->
+      <tr><td>Hilola</td><td>Sadullayeva</td><td>721960345</td><td class="sum">355,000</td></tr>
+      <!-- 83 -->
+      <tr><td>Odil</td><td>Qo'chqorov</td><td>897310526</td><td class="sum">690,000</td></tr>
+      <!-- 84 -->
+      <tr><td>Rabia</td><td>Davronova</td><td>419785063</td><td class="sum">210,000</td></tr>
+      <!-- 85 -->
+      <tr><td>Abdullo</td><td>Temirov</td><td>760318495</td><td class="sum">520,000</td></tr>
+      <!-- 86 -->
+      <tr><td>Ma'ruf</td><td>Po'latov</td><td>904157682</td><td class="sum">890,000</td></tr>
+      <!-- 87 -->
+      <tr><td>Shamsiya</td><td>Qosimova</td><td>637940185</td><td class="sum">285,000</td></tr>
+      <!-- 88 -->
+      <tr><td>Ilhom</td><td>Yusupov</td><td>815240936</td><td class="sum">410,000</td></tr>
+      <!-- 89 -->
+      <tr><td>Madina</td><td>Raxmonova</td><td>592871304</td><td class="sum">195,000</td></tr>
+      <!-- 90 -->
+      <tr><td>Ulug'bek</td><td>Sattorov</td><td>936712085</td><td class="sum">745,000</td></tr>
+      <!-- 91 -->
+      <tr><td>Mohira</td><td>Sa'dullayeva</td><td>478596201</td><td class="sum">265,000</td></tr>
+      <!-- 92 -->
+      <tr><td>Qobil</td><td>Erkinov</td><td>869430521</td><td class="sum">580,000</td></tr>
+      <!-- 93 -->
+      <tr><td>Shahzod</td><td>Norqulov</td><td>715893402</td><td class="sum">175,000</td></tr>
+      <!-- 94 -->
+      <tr><td>Mehribon</td><td>Yoqubova</td><td>941205786</td><td class="sum">335,000</td></tr>
+      <!-- 95 -->
+      <tr><td>Azamat</td><td>Xudayberdiyev</td><td>530871296</td><td class="sum">465,000</td></tr>
+      <!-- 96 -->
+      <tr><td>Dinora</td><td>Shodmonova</td><td>817430965</td><td class="sum">255,000</td></tr>
+      <!-- 97 -->
+      <tr><td>Shahriya</td><td>Nasriddinova</td><td>692318574</td><td class="sum">305,000</td></tr>
+      <!-- 98 -->
+      <tr><td>Tohir</td><td>Rasulov</td><td>874503129</td><td class="sum">530,000</td></tr>
+      <!-- 99 (FOZILBEK — MAXSUS YOZUV) -->
+      <tr class="highlight"><td>Fozilbek</td><td>Xoshimbayev</td><td>8081871195</td><td class="sum">500,000</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
